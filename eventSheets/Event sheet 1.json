@@ -1,0 +1,3669 @@
+{
+	"name": "Event sheet 1",
+	"events": [
+		{
+			"eventType": "variable",
+			"name": "id",
+			"type": "string",
+			"initialValue": "",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 639528284216938
+		},
+		{
+			"eventType": "variable",
+			"name": "serverMessage",
+			"type": "string",
+			"initialValue": "",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 167071885040602
+		},
+		{
+			"eventType": "variable",
+			"name": "idSendToServer",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 856655194998432
+		},
+		{
+			"eventType": "variable",
+			"name": "openGate1",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 603976738866448
+		},
+		{
+			"eventType": "variable",
+			"name": "openGate2",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 997293611100141
+		},
+		{
+			"eventType": "variable",
+			"name": "openGate3",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 680812428089352
+		},
+		{
+			"eventType": "variable",
+			"name": "openGate4",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 804285215340219
+		},
+		{
+			"eventType": "variable",
+			"name": "openGate5",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 500626113641690
+		},
+		{
+			"eventType": "variable",
+			"name": "openGate6",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 638755414449287
+		},
+		{
+			"eventType": "variable",
+			"name": "openGate7",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 979660114750221
+		},
+		{
+			"eventType": "variable",
+			"name": "openGate8",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 782119165373566
+		},
+		{
+			"eventType": "variable",
+			"name": "serverMessageReceived",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 156928772390832
+		},
+		{
+			"eventType": "variable",
+			"name": "gate1Timeout",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 819035460844939
+		},
+		{
+			"eventType": "variable",
+			"name": "gate2Timeout",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 819035660866949
+		},
+		{
+			"eventType": "variable",
+			"name": "gate3Timeout",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 839035660844949
+		},
+		{
+			"eventType": "variable",
+			"name": "gate4Timeout",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 819046880844949
+		},
+		{
+			"eventType": "variable",
+			"name": "gate5Timeout",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 812035660844949
+		},
+		{
+			"eventType": "variable",
+			"name": "gate6Timeout",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 81974564544949
+		},
+		{
+			"eventType": "variable",
+			"name": "gate7Timeout",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 819035665644949
+		},
+		{
+			"eventType": "variable",
+			"name": "gate8Timeout",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 81903340844949
+		},
+		{
+			"eventType": "variable",
+			"name": "gate1NotStanding",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 839397656476785
+		},
+		{
+			"eventType": "variable",
+			"name": "gate2NotStanding",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 748630228802971
+		},
+		{
+			"eventType": "variable",
+			"name": "gate3NotStanding",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 482183960922903
+		},
+		{
+			"eventType": "variable",
+			"name": "gate4NotStanding",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 441289335064946
+		},
+		{
+			"eventType": "variable",
+			"name": "gate5NotStanding",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 931937999218275
+		},
+		{
+			"eventType": "variable",
+			"name": "gate6NotStanding",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 307760437700099
+		},
+		{
+			"eventType": "variable",
+			"name": "gate7NotStanding",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 298013753255058
+		},
+		{
+			"eventType": "variable",
+			"name": "gate8NotStanding",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 875309973024691
+		},
+		{
+			"eventType": "variable",
+			"name": "gate1OpeningProcessStarted",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 320828898436993
+		},
+		{
+			"eventType": "variable",
+			"name": "gate2OpeningProcessStarted",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 667098193461001
+		},
+		{
+			"eventType": "variable",
+			"name": "gate3OpeningProcessStarted",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 358721235681905
+		},
+		{
+			"eventType": "variable",
+			"name": "gate4OpeningProcessStarted",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 782521085876939
+		},
+		{
+			"eventType": "variable",
+			"name": "gate5OpeningProcessStarted",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 380353863114798
+		},
+		{
+			"eventType": "variable",
+			"name": "gate6OpeningProcessStarted",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 734443332214323
+		},
+		{
+			"eventType": "variable",
+			"name": "gate7OpeningProcessStarted",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 460721238523458
+		},
+		{
+			"eventType": "variable",
+			"name": "gate8OpeningProcessStarted",
+			"type": "boolean",
+			"initialValue": "false",
+			"comment": "",
+			"isStatic": false,
+			"isConstant": false,
+			"sid": 228120570903888
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 407989687644398
+				}
+			],
+			"actions": [
+				{
+					"id": "connect",
+					"objectClass": "WebSocket",
+					"sid": 548199797331034,
+					"parameters": {
+						"url": "\"ws://localhost:8000\"",
+						"protocol-optional": "\"\""
+					}
+				},
+				{
+					"id": "set-eventvar-value",
+					"objectClass": "System",
+					"sid": 607784371811151,
+					"parameters": {
+						"variable": "id",
+						"value": "random(1000000)"
+					}
+				}
+			],
+			"sid": 726865910214547
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-opened",
+					"objectClass": "WebSocket",
+					"sid": 646799855133133
+				}
+			],
+			"actions": [
+				{
+					"type": "script",
+					"script": "console.log('connected');"
+				}
+			],
+			"sid": 978517873955590
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-opened",
+					"objectClass": "WebSocket",
+					"sid": 123715655299718
+				},
+				{
+					"id": "compare-eventvar",
+					"objectClass": "System",
+					"sid": 237125861581399,
+					"parameters": {
+						"variable": "id",
+						"comparison": 1,
+						"value": "\"\""
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 723201640863668,
+					"parameters": {
+						"variable": "idSendToServer"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 703150639322305,
+					"parameters": {
+						"data": "id"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 875772875003378,
+					"parameters": {
+						"variable": "idSendToServer",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 771117015101601
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 704669725581374,
+					"parameters": {
+						"object": "sectorAind1"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorAind1",
+					"sid": 619204379622806,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 991801833580844
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 860745407343778,
+					"parameters": {
+						"object": "sectorAind1"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorAind1",
+					"sid": 766228590418190,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 153086715827467
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 921664244847273,
+					"parameters": {
+						"object": "sectorAind3"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorAind3",
+					"sid": 600528138347464,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 107138693730040
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 912351218620706,
+					"parameters": {
+						"object": "sectorAind3"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorAind3",
+					"sid": 248877332295774,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 264792141957211
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 100765312261631,
+					"parameters": {
+						"object": "sectorAind2"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorAind2",
+					"sid": 463266502902818,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 224720935696116
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 317941234817358,
+					"parameters": {
+						"object": "sectorAind2"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorAind2",
+					"sid": 628643546758559,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 193571850473522
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 372307923265700,
+					"parameters": {
+						"object": "secotrAind4"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "secotrAind4",
+					"sid": 938201605407885,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 382681779899856
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 953014761168457,
+					"parameters": {
+						"object": "secotrAind4"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "secotrAind4",
+					"sid": 232476973263801,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 839815737941827
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 316691059640554,
+					"parameters": {
+						"object": "sectorBind1"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorBind1",
+					"sid": 144151655532461,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 831234448583529
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 188158374079939,
+					"parameters": {
+						"object": "sectorBind1"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorBind1",
+					"sid": 111882748500623,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 958518902215893
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 134880921230159,
+					"parameters": {
+						"object": "sectorBind2"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorBind2",
+					"sid": 450811262489644,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 976832759776919
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 740506985360201,
+					"parameters": {
+						"object": "sectorBind2"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorBind2",
+					"sid": 695697511633983,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 515467116070328
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 596293326900671,
+					"parameters": {
+						"object": "sectorBind3"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorBind3",
+					"sid": 470323052511128,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 139931321540604
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 623253454209763,
+					"parameters": {
+						"object": "sectorBind3"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorBind3",
+					"sid": 683015867434672,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 904233176915016
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 456461856344852,
+					"parameters": {
+						"object": "sectorBind4"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorBind4",
+					"sid": 859628057917431,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 125244181743238
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 927393329988073,
+					"parameters": {
+						"object": "sectorBind4"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorBind4",
+					"sid": 473977075527154,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 875127564863245
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 765898734806002,
+					"parameters": {
+						"object": "sectorCind1"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorCind1",
+					"sid": 103172770401441,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 465768125265963
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 404943814179104,
+					"parameters": {
+						"object": "sectorCind1"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorCind1",
+					"sid": 500836920321460,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 369430475073727
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 199841346119543,
+					"parameters": {
+						"object": "sectorCind2"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorCind2",
+					"sid": 632476910838345,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 435600165910181
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 536169202755399,
+					"parameters": {
+						"object": "sectorCind2"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorCind2",
+					"sid": 626742758011054,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 130957690900170
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 281490266440061,
+					"parameters": {
+						"object": "sectorCind3"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorCind3",
+					"sid": 396597354117892,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 667227570338701
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 438310993419449,
+					"parameters": {
+						"object": "sectorCind3"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorCind3",
+					"sid": 589152325088644,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 345824952992693
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 789200473770611,
+					"parameters": {
+						"object": "sectorCind4"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorCind4",
+					"sid": 970483159230246,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 813474210736580
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 947190935215127,
+					"parameters": {
+						"object": "sectorCind4"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorCind4",
+					"sid": 539516312257396,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 341307295053011
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 722552141742111,
+					"parameters": {
+						"object": "sectorDind1"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorDind1",
+					"sid": 533400392294620,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 665385388541407
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 860895385181384,
+					"parameters": {
+						"object": "sectorDind1"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorDind1",
+					"sid": 595677824445409,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 561838139567295
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 363277109406382,
+					"parameters": {
+						"object": "sectorDind2"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorDind2",
+					"sid": 198292163672097,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 800727052931865
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 647240316534865,
+					"parameters": {
+						"object": "sectorDind2"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorDind2",
+					"sid": 445447492348359,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 508298383496019
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 773059355239123,
+					"parameters": {
+						"object": "sectorDind3"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorDind3",
+					"sid": 611077031888776,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 299870051435895
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 815061461048324,
+					"parameters": {
+						"object": "sectorDind3"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorDind3",
+					"sid": 869814436039411,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 828189162704823
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 758842019394718,
+					"parameters": {
+						"object": "sectorDind4"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorDind4",
+					"sid": 628066454961516,
+					"parameters": {
+						"frame-number": "1"
+					}
+				}
+			],
+			"sid": 774283615443000
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 675045688327560,
+					"parameters": {
+						"object": "sectorDind4"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-animation-frame",
+					"objectClass": "sectorDind4",
+					"sid": 201134162596105,
+					"parameters": {
+						"frame-number": "0"
+					}
+				}
+			],
+			"sid": 896655312129306
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-message",
+					"objectClass": "WebSocket",
+					"sid": 182647230826699
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 565225977315694,
+					"parameters": {
+						"variable": "serverMessageReceived",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-eventvar-value",
+					"objectClass": "System",
+					"sid": 421640624343751,
+					"parameters": {
+						"variable": "serverMessage",
+						"value": "WebSocket.MessageText"
+					}
+				}
+			],
+			"sid": 979307094474048
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-eventvar",
+					"objectClass": "System",
+					"sid": 122673938554021,
+					"parameters": {
+						"variable": "serverMessage",
+						"comparison": 1,
+						"value": "\"\""
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 116322938876303,
+					"parameters": {
+						"variable": "serverMessageReceived"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"type": "script",
+					"script": "const serverResponse = runtime.globalVars.serverMessage;\nconst serverResponseJSON = JSON.parse(serverResponse);\n\nconst car = runtime.objects.car.getFirstInstance();\n\nif(serverResponseJSON.parkingSimulator === runtime.globalVars.id) {\n\t// id sie zgadza - otworz odpowiednia bramke\n\tconst gateId = parseInt(serverResponseJSON.parkingColumnId);\n\t\n\tlet gate;\n\t\n\tswitch(gateId) {\n\t\tcase 1:\n\t\t\tgate = runtime.objects.sectorAind1.getFirstInstance();\n\t\t\tif(car.testOverlap(gate)) {\n\t\t\t\truntime.globalVars.openGate1 = true;\n\t\t\t}\n\t\t\telse {\n\t\t\t\truntime.globalVars.gate1NotStanding = true;\n\t\t\t}\n\t\t\t\n\t\t\tbreak;\n\t\tcase 2:\n\t\t\tgate = runtime.objects.sectorAind3.getFirstInstance();\n\t\t\tif(car.testOverlap(gate)) {\n\t\t\t\truntime.globalVars.openGate2 = true;\n\t\t\t}\n\t\t\telse {\n\t\t\t\truntime.globalVars.gate2NotStanding = true;\n\t\t\t}\n\t\t\t\n\t\t\tbreak;\n\t\tcase 3:\n\t\t\tgate = runtime.objects.sectorBind1.getFirstInstance();\n\t\t\tif(car.testOverlap(gate)) {\n\t\t\t\truntime.globalVars.openGate3 = true;\n\t\t\t}\n\t\t\telse {\n\t\t\t\truntime.globalVars.gate3NotStanding = true;\n\t\t\t}\n\t\t\t\n\t\t\tbreak;\n\t\tcase 4:\n\t\t\tgate = runtime.objects.sectorBind3.getFirstInstance();\n\t\t\tif(car.testOverlap(gate)) {\n\t\t\t\truntime.globalVars.openGate4 = true;\n\t\t\t}\n\t\t\telse {\n\t\t\t\truntime.globalVars.gate4NotStanding = true;\n\t\t\t}\n\t\t\t\n\t\t\tbreak;\n\t\tcase 5:\n\t\t\tgate = runtime.objects.sectorCind1.getFirstInstance();\n\t\t\tif(car.testOverlap(gate)) {\n\t\t\t\truntime.globalVars.openGate5 = true;\n\t\t\t}\n\t\t\telse {\n\t\t\t\truntime.globalVars.gate5NotStanding = true;\n\t\t\t}\n\t\t\t\n\t\t\tbreak;\n\t\tcase 6:\n\t\t\tgate = runtime.objects.sectorCind3.getFirstInstance();\n\t\t\tif(car.testOverlap(gate)) {\n\t\t\t\truntime.globalVars.openGate6 = true;\n\t\t\t}\n\t\t\telse {\n\t\t\t\truntime.globalVars.gate6NotStanding = true;\n\t\t\t}\n\t\t\t\n\t\t\tbreak;\n\t\tcase 7:\n\t\t\tgate = runtime.objects.sectorDind1.getFirstInstance();\n\t\t\tif(car.testOverlap(gate)) {\n\t\t\t\truntime.globalVars.openGate7 = true;\n\t\t\t}\n\t\t\telse {\n\t\t\t\truntime.globalVars.gate7NotStanding = true;\n\t\t\t}\n\t\t\t\n\t\t\tbreak;\n\t\tdefault:\n\t\t\tgate = runtime.objects.sectorDind3.getFirstInstance();\n\t\t\tif(car.testOverlap(gate)) {\n\t\t\t\truntime.globalVars.openGate8 = true;\n\t\t\t}\n\t\t\telse {\n\t\t\t\truntime.globalVars.gate8NotStanding = true;\n\t\t\t}\n\t\t\t\n\t\t\tbreak;\n\t}\n\n\truntime.globalVars.serverMessageReceived = true;\n}"
+				}
+			],
+			"sid": 921455883513643
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 398922451816959,
+					"parameters": {
+						"object": "sectorAind1"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 173726539622777,
+					"parameters": {
+						"variable": "openGate1"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 459460321386564,
+					"parameters": {
+						"variable": "gate1OpeningProcessStarted"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 386027601816737,
+					"parameters": {
+						"variable": "gate1OpeningProcessStarted",
+						"value": "true"
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier1",
+					"sid": 309082006389399,
+					"parameters": {
+						"distance": "-100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 578741326533538,
+					"parameters": {
+						"variable": "gate1NotStanding",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 304885308452850,
+					"parameters": {
+						"variable": "gate1Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 222271317667852,
+					"parameters": {
+						"seconds": "5"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 127883184412030,
+					"parameters": {
+						"variable": "gate1Timeout",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 811556520242558
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 320290093601713,
+					"parameters": {
+						"object": "sectorAind1"
+					},
+					"isInverted": true
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 110469449026399,
+					"parameters": {
+						"variable": "gate1NotStanding"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 929423706526372,
+					"parameters": {
+						"data": "\"carNotStandingBeforeGateError\""
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 606093559115697,
+					"parameters": {
+						"variable": "gate1NotStanding",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 563539437870368
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 517017543363772,
+					"parameters": {
+						"variable": "gate1Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 845456248537998,
+					"parameters": {
+						"variable": "openGate1"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 545256993672896,
+					"parameters": {
+						"data": "\"1\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier1",
+					"sid": 146251634043336,
+					"parameters": {
+						"distance": "100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 894960774172925,
+					"parameters": {
+						"variable": "gate1Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 773179221746854,
+					"parameters": {
+						"variable": "gate1NotStanding",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 738388690100429
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 233103632328886,
+					"parameters": {
+						"variable": "gate1Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 678952139106613,
+					"parameters": {
+						"variable": "openGate1"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 694115175621907,
+					"parameters": {
+						"data": "\"gateOpenedButCarDidntCameInError\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier1",
+					"sid": 207717452803591,
+					"parameters": {
+						"distance": "100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 947233798671814,
+					"parameters": {
+						"variable": "gate1Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 612390313289497,
+					"parameters": {
+						"variable": "openGate1",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 703783859988684,
+					"parameters": {
+						"variable": "gate1OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 936070615133191
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 964092071641431,
+					"parameters": {
+						"object": "sectorAind2"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 905361630324709,
+					"parameters": {
+						"variable": "openGate1"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 235944995119250,
+					"parameters": {
+						"variable": "openGate1",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 514383314942937,
+					"parameters": {
+						"variable": "gate1OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 248354030427021
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 898448000525770,
+					"parameters": {
+						"object": "sectorAind3"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 125904662570144,
+					"parameters": {
+						"variable": "openGate2"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 482607531457237,
+					"parameters": {
+						"variable": "gate2OpeningProcessStarted"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 913921846894328,
+					"parameters": {
+						"variable": "gate2OpeningProcessStarted",
+						"value": "true"
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier2",
+					"sid": 298645705250346,
+					"parameters": {
+						"distance": "100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 127708895724956,
+					"parameters": {
+						"variable": "gate2NotStanding",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 241017485893277,
+					"parameters": {
+						"variable": "gate2Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 174252473629220,
+					"parameters": {
+						"seconds": "5"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 999523344704577,
+					"parameters": {
+						"variable": "gate2Timeout",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 725454870446121
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 245576095397459,
+					"parameters": {
+						"object": "sectorAind3"
+					},
+					"isInverted": true
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 217568689184104,
+					"parameters": {
+						"variable": "gate2NotStanding"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 776488338440308,
+					"parameters": {
+						"data": "\"carNotStandingBeforeGateError\""
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 958146620692319,
+					"parameters": {
+						"variable": "gate2NotStanding",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 290952158428697
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 724733027839308,
+					"parameters": {
+						"variable": "gate2Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 109617941029674,
+					"parameters": {
+						"variable": "openGate2"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 292591956931802,
+					"parameters": {
+						"data": "\"2\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier2",
+					"sid": 287023469958606,
+					"parameters": {
+						"distance": "-100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 951614743685004,
+					"parameters": {
+						"variable": "gate2Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 538416081971208,
+					"parameters": {
+						"variable": "gate2NotStanding",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 497545822887731
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 634086969317157,
+					"parameters": {
+						"variable": "gate2Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 301140284089776,
+					"parameters": {
+						"variable": "openGate2"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 464718563652776,
+					"parameters": {
+						"data": "\"gateOpenedButCarDidntCameInError\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier2",
+					"sid": 527099275231766,
+					"parameters": {
+						"distance": "-100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 339053586165894,
+					"parameters": {
+						"variable": "gate2Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 109694417177033,
+					"parameters": {
+						"variable": "openGate2",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 383371430431974,
+					"parameters": {
+						"variable": "gate2OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 538552747788594
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 286698301500659,
+					"parameters": {
+						"object": "secotrAind4"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 480338924377563,
+					"parameters": {
+						"variable": "openGate2"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 921549513731772,
+					"parameters": {
+						"variable": "openGate2",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 682910716680143,
+					"parameters": {
+						"variable": "gate2OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 489473893786135
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 247731926037047,
+					"parameters": {
+						"object": "sectorBind1"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 527961159656615,
+					"parameters": {
+						"variable": "openGate3"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 738464263100112,
+					"parameters": {
+						"variable": "gate3OpeningProcessStarted"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 307106391811048,
+					"parameters": {
+						"variable": "gate3OpeningProcessStarted",
+						"value": "true"
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier3",
+					"sid": 297138307501477,
+					"parameters": {
+						"distance": "-100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 195231407594317,
+					"parameters": {
+						"variable": "gate3NotStanding",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 987116834214774,
+					"parameters": {
+						"variable": "gate3Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 323492058739951,
+					"parameters": {
+						"seconds": "5"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 202923629899456,
+					"parameters": {
+						"variable": "gate3Timeout",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 906074691714543
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 709808170183047,
+					"parameters": {
+						"object": "sectorBind1"
+					},
+					"isInverted": true
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 246371987369958,
+					"parameters": {
+						"variable": "gate3NotStanding"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 282185309879589,
+					"parameters": {
+						"data": "\"carNotStandingBeforeGateError\""
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 873011938110623,
+					"parameters": {
+						"variable": "gate3NotStanding",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 880012509483304
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 605606550631077,
+					"parameters": {
+						"variable": "gate3Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 389747423233592,
+					"parameters": {
+						"variable": "openGate3"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 381195829568919,
+					"parameters": {
+						"data": "\"3\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier3",
+					"sid": 915901698109456,
+					"parameters": {
+						"distance": "100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 545469810081375,
+					"parameters": {
+						"variable": "gate3Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 636711234184217,
+					"parameters": {
+						"variable": "gate3NotStanding",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 505767308465364
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 696383402446967,
+					"parameters": {
+						"variable": "gate3Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 911360993514450,
+					"parameters": {
+						"variable": "openGate3"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 431717295335183,
+					"parameters": {
+						"data": "\"gateOpenedButCarDidntCameInError\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier3",
+					"sid": 286525457802956,
+					"parameters": {
+						"distance": "100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 238483985944118,
+					"parameters": {
+						"variable": "gate3Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 370725003008731,
+					"parameters": {
+						"variable": "openGate3",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 716007228448989,
+					"parameters": {
+						"variable": "gate3OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 214218105146835
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 597629354133893,
+					"parameters": {
+						"object": "sectorBind2"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 480782167114635,
+					"parameters": {
+						"variable": "openGate3"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 590880605959216,
+					"parameters": {
+						"variable": "openGate3",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 974871483768263,
+					"parameters": {
+						"variable": "gate3OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 967193105024120
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 994865800468936,
+					"parameters": {
+						"object": "sectorBind3"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 701338121205182,
+					"parameters": {
+						"variable": "openGate4"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 415290096653848,
+					"parameters": {
+						"variable": "gate4OpeningProcessStarted"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 733213038683733,
+					"parameters": {
+						"variable": "gate4OpeningProcessStarted",
+						"value": "true"
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier4",
+					"sid": 964338013273230,
+					"parameters": {
+						"distance": "100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 831480080818995,
+					"parameters": {
+						"variable": "gate4NotStanding",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 528191395390342,
+					"parameters": {
+						"variable": "gate4Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 611899138028198,
+					"parameters": {
+						"seconds": "5"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 889911087365803,
+					"parameters": {
+						"variable": "gate4Timeout",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 532351637892095
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 252373848997220,
+					"parameters": {
+						"object": "sectorBind3"
+					},
+					"isInverted": true
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 634689481956264,
+					"parameters": {
+						"variable": "gate4NotStanding"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 495774827231963,
+					"parameters": {
+						"data": "\"carNotStandingBeforeGateError\""
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 915409710683226,
+					"parameters": {
+						"variable": "gate4NotStanding",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 876671032383687
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 106500434999291,
+					"parameters": {
+						"variable": "gate4Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 422762722429319,
+					"parameters": {
+						"variable": "openGate4"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 405989611319477,
+					"parameters": {
+						"data": "\"4\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier4",
+					"sid": 640236498750808,
+					"parameters": {
+						"distance": "-100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 408973266911422,
+					"parameters": {
+						"variable": "gate4Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 163810537072321,
+					"parameters": {
+						"variable": "gate4NotStanding",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 851897081816775
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 119320797645564,
+					"parameters": {
+						"variable": "gate4Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 825880654265266,
+					"parameters": {
+						"variable": "openGate4"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 427266841883526,
+					"parameters": {
+						"data": "\"gateOpenedButCarDidntCameInError\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier4",
+					"sid": 977653120882986,
+					"parameters": {
+						"distance": "-100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 593793943786620,
+					"parameters": {
+						"variable": "gate4Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 920066816907502,
+					"parameters": {
+						"variable": "openGate4",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 873356175052132,
+					"parameters": {
+						"variable": "gate4OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 743449189014265
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 371645135726769,
+					"parameters": {
+						"object": "sectorBind4"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 985243316006023,
+					"parameters": {
+						"variable": "openGate4"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 266643573006959,
+					"parameters": {
+						"variable": "openGate4",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 530962436200083,
+					"parameters": {
+						"variable": "gate4OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 404974790418787
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 545641372995247,
+					"parameters": {
+						"object": "sectorCind1"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 743079966519524,
+					"parameters": {
+						"variable": "openGate5"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 156346989028083,
+					"parameters": {
+						"variable": "gate5OpeningProcessStarted"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 696335805534857,
+					"parameters": {
+						"variable": "gate5OpeningProcessStarted",
+						"value": "true"
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier5",
+					"sid": 345196365994537,
+					"parameters": {
+						"distance": "-100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 388315198342922,
+					"parameters": {
+						"variable": "gate5NotStanding",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 881390780118279,
+					"parameters": {
+						"variable": "gate5Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 621936124424989,
+					"parameters": {
+						"seconds": "5"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 302864091555037,
+					"parameters": {
+						"variable": "gate5Timeout",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 826595368486249
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 674490948484771,
+					"parameters": {
+						"object": "sectorCind1"
+					},
+					"isInverted": true
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 508688718459696,
+					"parameters": {
+						"variable": "gate5NotStanding"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 119510634604638,
+					"parameters": {
+						"data": "\"carNotStandingBeforeGateError\""
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 511708366622900,
+					"parameters": {
+						"variable": "gate5NotStanding",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 117754248720056
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 638402898688520,
+					"parameters": {
+						"variable": "gate5Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 836374153219167,
+					"parameters": {
+						"variable": "openGate5"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 911392083478701,
+					"parameters": {
+						"data": "\"5\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier5",
+					"sid": 144444141503413,
+					"parameters": {
+						"distance": "100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 475315668741921,
+					"parameters": {
+						"variable": "gate5Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 375898604790336,
+					"parameters": {
+						"variable": "gate5NotStanding",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 985403106939844
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 889090987355973,
+					"parameters": {
+						"variable": "gate5Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 600677056200228,
+					"parameters": {
+						"variable": "openGate5"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 177541829298839,
+					"parameters": {
+						"data": "\"gateOpenedButCarDidntCameInError\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier5",
+					"sid": 501883874564770,
+					"parameters": {
+						"distance": "100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 585100130730669,
+					"parameters": {
+						"variable": "gate5Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 388803250681514,
+					"parameters": {
+						"variable": "openGate5",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 409721062787922,
+					"parameters": {
+						"variable": "gate5OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 727527923164311
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 827754660198187,
+					"parameters": {
+						"object": "sectorCind2"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 347097509178528,
+					"parameters": {
+						"variable": "openGate5"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 485698726297667,
+					"parameters": {
+						"variable": "openGate5",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 947983094445507,
+					"parameters": {
+						"variable": "gate5OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 520099541549375
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 521458497220006,
+					"parameters": {
+						"object": "sectorCind3"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 220531193239981,
+					"parameters": {
+						"variable": "openGate6"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 611578635222682,
+					"parameters": {
+						"variable": "gate6OpeningProcessStarted"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 403361143041446,
+					"parameters": {
+						"variable": "gate6OpeningProcessStarted",
+						"value": "true"
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier6",
+					"sid": 420119997333054,
+					"parameters": {
+						"distance": "100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 729802530511654,
+					"parameters": {
+						"variable": "gate6NotStanding",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 520859393963834,
+					"parameters": {
+						"variable": "gate6Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 483313851482279,
+					"parameters": {
+						"seconds": "5"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 455218916941957,
+					"parameters": {
+						"variable": "gate6Timeout",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 726355584608576
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 272491279334600,
+					"parameters": {
+						"object": "sectorCind3"
+					},
+					"isInverted": true
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 142383534296338,
+					"parameters": {
+						"variable": "gate6NotStanding"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 386542716627021,
+					"parameters": {
+						"data": "\"carNotStandingBeforeGateError\""
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 344989482350097,
+					"parameters": {
+						"variable": "gate6NotStanding",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 294855412220429
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 780108438422382,
+					"parameters": {
+						"variable": "gate6Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 776589744198093,
+					"parameters": {
+						"variable": "openGate6"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 375635010569800,
+					"parameters": {
+						"data": "\"6\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier6",
+					"sid": 280878615021239,
+					"parameters": {
+						"distance": "-100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 866887439945292,
+					"parameters": {
+						"variable": "gate6Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 374343270163799,
+					"parameters": {
+						"variable": "gate6NotStanding",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 406229198856232
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 501309859610807,
+					"parameters": {
+						"variable": "gate6Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 140380499600550,
+					"parameters": {
+						"variable": "openGate6"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 956243214564538,
+					"parameters": {
+						"data": "\"gateOpenedButCarDidntCameInError\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier6",
+					"sid": 887066834394308,
+					"parameters": {
+						"distance": "-100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 646018826615624,
+					"parameters": {
+						"variable": "gate6Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 365800367113897,
+					"parameters": {
+						"variable": "openGate6",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 419616443571781,
+					"parameters": {
+						"variable": "gate6OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 554998834033466
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 753858134507110,
+					"parameters": {
+						"object": "sectorCind4"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 346031110340353,
+					"parameters": {
+						"variable": "openGate6"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 786243517750974,
+					"parameters": {
+						"variable": "openGate6",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 777508274613078,
+					"parameters": {
+						"variable": "gate6OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 154797702543222
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 521476863664164,
+					"parameters": {
+						"object": "sectorDind1"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 278888885620252,
+					"parameters": {
+						"variable": "openGate7"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 194968375104418,
+					"parameters": {
+						"variable": "gate7OpeningProcessStarted"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 489589840477612,
+					"parameters": {
+						"variable": "gate7OpeningProcessStarted",
+						"value": "true"
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier7",
+					"sid": 529414590695544,
+					"parameters": {
+						"distance": "-100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 472545694316169,
+					"parameters": {
+						"variable": "gate7NotStanding",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 986693265808009,
+					"parameters": {
+						"variable": "gate7Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 233063454567614,
+					"parameters": {
+						"seconds": "5"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 919708319322759,
+					"parameters": {
+						"variable": "gate7Timeout",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 469384166715206
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 118480254878105,
+					"parameters": {
+						"object": "sectorDind1"
+					},
+					"isInverted": true
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 687034192118859,
+					"parameters": {
+						"variable": "gate7NotStanding"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 790305192967983,
+					"parameters": {
+						"data": "\"carNotStandingBeforeGateError\""
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 975981447551215,
+					"parameters": {
+						"variable": "gate7NotStanding",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 744379151346785
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 920360637717882,
+					"parameters": {
+						"variable": "gate7Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 677044415685857,
+					"parameters": {
+						"variable": "openGate7"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 657450510292659,
+					"parameters": {
+						"data": "\"7\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier7",
+					"sid": 252724165064286,
+					"parameters": {
+						"distance": "100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 864326781003315,
+					"parameters": {
+						"variable": "gate7Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 118401943550914,
+					"parameters": {
+						"variable": "gate7NotStanding",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 150867305756441
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 983459038286687,
+					"parameters": {
+						"variable": "gate7Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 340502486884875,
+					"parameters": {
+						"variable": "openGate7"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 327148271214359,
+					"parameters": {
+						"data": "\"gateOpenedButCarDidntCameInError\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier7",
+					"sid": 140508260121293,
+					"parameters": {
+						"distance": "100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 159771571420940,
+					"parameters": {
+						"variable": "gate7Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 490314091023778,
+					"parameters": {
+						"variable": "openGate7",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 491727815522139,
+					"parameters": {
+						"variable": "gate7OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 327483791429296
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 362449273074126,
+					"parameters": {
+						"object": "sectorDind2"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 457399731394887,
+					"parameters": {
+						"variable": "openGate7"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 854220596954956,
+					"parameters": {
+						"variable": "openGate7",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 525233211193108,
+					"parameters": {
+						"variable": "gate7OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 753628917884954
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 753649454656300,
+					"parameters": {
+						"object": "sectorDind3"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 754238918131749,
+					"parameters": {
+						"variable": "openGate8"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 393376480124123,
+					"parameters": {
+						"variable": "gate8OpeningProcessStarted"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 894212311282731,
+					"parameters": {
+						"variable": "gate8OpeningProcessStarted",
+						"value": "true"
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier8",
+					"sid": 729959975816753,
+					"parameters": {
+						"distance": "100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 452138037696817,
+					"parameters": {
+						"variable": "gate8NotStanding",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 915137346648736,
+					"parameters": {
+						"variable": "gate8Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "wait",
+					"objectClass": "System",
+					"sid": 286466068654362,
+					"parameters": {
+						"seconds": "5"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 631880411123448,
+					"parameters": {
+						"variable": "gate8Timeout",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 205368503352467
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 440854578667709,
+					"parameters": {
+						"object": "sectorDind3"
+					},
+					"isInverted": true
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 162396268879281,
+					"parameters": {
+						"variable": "gate8NotStanding"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 965718288354823,
+					"parameters": {
+						"data": "\"carNotStandingBeforeGateError\""
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 592963663545391,
+					"parameters": {
+						"variable": "gate8NotStanding",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 623492775413678
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 701259628006342,
+					"parameters": {
+						"variable": "gate8Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 583065426877459,
+					"parameters": {
+						"variable": "openGate8"
+					},
+					"isInverted": true
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 510817072231925,
+					"parameters": {
+						"data": "\"8\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier8",
+					"sid": 165925062204603,
+					"parameters": {
+						"distance": "-100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 113617196418488,
+					"parameters": {
+						"variable": "gate8Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 600173383992710,
+					"parameters": {
+						"variable": "gate8NotStanding",
+						"value": "true"
+					}
+				}
+			],
+			"sid": 830001663386491
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 790831302664073,
+					"parameters": {
+						"variable": "gate8Timeout"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 876790487835600,
+					"parameters": {
+						"variable": "openGate8"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "send-text",
+					"objectClass": "WebSocket",
+					"sid": 961528665306847,
+					"parameters": {
+						"data": "\"gateOpenedButCarDidntCameInError\""
+					}
+				},
+				{
+					"id": "move-forward",
+					"objectClass": "barrier8",
+					"sid": 634686664467582,
+					"parameters": {
+						"distance": "-100"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 748365202153173,
+					"parameters": {
+						"variable": "gate8Timeout",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 499221364265684,
+					"parameters": {
+						"variable": "openGate8",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 417385583312416,
+					"parameters": {
+						"variable": "gate8OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 368778994424829
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "is-overlapping-another-object",
+					"objectClass": "car",
+					"sid": 232548965079644,
+					"parameters": {
+						"object": "sectorDind4"
+					}
+				},
+				{
+					"id": "compare-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 536777443665690,
+					"parameters": {
+						"variable": "openGate8"
+					}
+				}
+			],
+			"actions": [
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 578472991131818,
+					"parameters": {
+						"variable": "openGate8",
+						"value": "false"
+					}
+				},
+				{
+					"id": "set-boolean-eventvar",
+					"objectClass": "System",
+					"sid": 590614745736618,
+					"parameters": {
+						"variable": "gate8OpeningProcessStarted",
+						"value": "false"
+					}
+				}
+			],
+			"sid": 824548421428473
+		}
+	],
+	"sid": 199146434469488
+}
